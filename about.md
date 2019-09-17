@@ -17,6 +17,6 @@ We wanted to make a server that doesn't shy away from the icky discussions that 
 
  > Eventually, there will be real, helpful quotes here.
  > 
- > - paco rain
+ > \- paco rain
 
 ## Other things about HoM
