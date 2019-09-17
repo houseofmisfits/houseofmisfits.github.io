@@ -16,7 +16,7 @@ We wanted to make a server that doesn't shy away from the icky discussions that 
 ## Testimonials
 
  > Eventually, there will be real, helpful quotes here.
- >
+ > 
  > - paco rain
 
 ## Other things about HoM
