@@ -48,7 +48,7 @@ navigation_header:
 # Footer nav
 navigation_footer:
 - title: Start Chatting
-  url: #
+  url: /join
 
 # Collections
 collections:

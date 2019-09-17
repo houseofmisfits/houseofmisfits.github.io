@@ -7,4 +7,4 @@ feature_text: |
   <a class="button" href="/join">Let's Talk Seriously about Mental Health</a>
 ---
 
-There isn't much going on here yet, but watch this space
+House of Misfits is mental-health server on [Discord](https://discordapp.com).
