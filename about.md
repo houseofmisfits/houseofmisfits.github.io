@@ -1,6 +1,16 @@
 ---
 layout: page
-title: About this website
+title: About HoM
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+House of Misfits.
+
+In other words, a home for the outcasts. A sanctuary for the abused. A place of comfort for the sick.
+
+We wanted to make a server that doesn't shy away from the icky discussions that come with mental health.
+
+## Our Mission
+
+## Our Staff
+
+## Other things about HoM

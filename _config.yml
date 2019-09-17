@@ -7,6 +7,9 @@ exclude:
 - Gemfile
 - Gemfile.lock
 
+include:
+- _include
+
 # Set plugins
 plugins:
 - jekyll-sitemap
@@ -22,10 +25,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'House of Misfits'
+description: 'Mental-Health Discord Server'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "/assets/img/homlogo3.png"
 
 # Pagination
 paginate: 5
@@ -37,20 +40,21 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: Join
+  url: /join/
 - title: Blog
   url: /blog/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Start Chatting
+  url: #
 
 # Collections
 collections:
   posts:
     title: Posts
     output: true
-    description: "My thoughts and ideas"
     feature_text: |
-      Welcome to my blog
+      # House of Misfits Blog
     feature_image: "https://picsum.photos/2560/600?image=866"
