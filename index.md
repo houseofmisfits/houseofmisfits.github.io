@@ -9,6 +9,8 @@ feature_text: |
 
 House of Misfits is mental-health oriented server on [Discord](https://discordapp.com). [Join now](join) to start chatting!
 
+-----
+
 # Perks
 
 ## Server Games and Currency
