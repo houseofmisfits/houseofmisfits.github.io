@@ -7,4 +7,12 @@ feature_text: |
   <a class="button" href="/join">Let's Talk Seriously about Mental Health</a>
 ---
 
-House of Misfits is mental-health server on [Discord](https://discordapp.com).
+House of Misfits is mental-health oriented server on [Discord](https://discordapp.com). [Join now](join) to start chatting!
+
+# Perks
+
+## Server Games and Currency
+
+## Weekly Events
+
+## Support Staff
