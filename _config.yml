@@ -22,7 +22,7 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://misfits.house'
 baseurl: ''
 title: 'House of Misfits'
 description: 'Mental-Health Discord Server'
@@ -46,6 +46,8 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
+- title: Privacy Notice
+  url: /about/privacy
 - title: Start Chatting
   url: /join
 
