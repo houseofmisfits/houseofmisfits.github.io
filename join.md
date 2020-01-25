@@ -3,7 +3,7 @@ layout: page
 title: Are you ready to join the server?
 ---
 
-Read through this page and the click the button at the bottom to start chatting! Or, you can just [jump in](#).
+Read through this page and the click the button at the bottom to start chatting! Or, you can just [jump in](https://discord.gg/bNBD8RP).
 
 ## Rules
 
@@ -21,5 +21,5 @@ You can start chatting right away, but to gain full access to the server, you wi
 
 To learn more, see [verification](/verification).
 
-<center><a class="button" href="#">Start Chatting</a></center>
+<center><a class="button" href="https://discord.gg/bNBD8RP">Start Chatting</a></center>
 

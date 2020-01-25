@@ -13,16 +13,6 @@ Mental illnesses are still very taboo, and it is hard to not feel alone in deali
 
 We wanted to make a server that doesn't shy away from the icky discussions that come with mental health.
 
-## Our Mission
+## More to come!
 
-## Featured Channels
-
-## About Our Staff
-
-## Testimonials
-
- > Eventually, there will be real, helpful quotes here.
- > 
- > \- paco rain
-
-## Donating
+This website is still under construction, so more about the server will eventually be posted here, including informations about donating to the server.

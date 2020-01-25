@@ -13,8 +13,9 @@ House of Misfits is mental-health oriented server on [Discord](https://discordap
 
 # Perks
 
-## Server Games and Currency
+ - Server Games and Currency
+ - Weekly Events
+ - Support Staff
+ - Monthly Accountability Groups
 
-## Weekly Events
-
-## Support Staff
+ Join now to find out more!
